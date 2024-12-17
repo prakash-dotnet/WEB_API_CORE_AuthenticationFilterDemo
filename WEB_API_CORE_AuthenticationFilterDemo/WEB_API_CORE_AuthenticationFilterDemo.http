@@ -1,0 +1,6 @@
+@WEB_API_CORE_AuthenticationFilterDemo_HostAddress = http://localhost:5033
+
+GET {{WEB_API_CORE_AuthenticationFilterDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
